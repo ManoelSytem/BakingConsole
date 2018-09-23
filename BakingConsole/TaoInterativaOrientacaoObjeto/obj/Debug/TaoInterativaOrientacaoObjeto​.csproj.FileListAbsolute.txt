@@ -1,0 +1,7 @@
+C:\Users\netob\source\repos\ConsoleApp.Net\BankingConsole\BakingConsole\TaoInterativaOrientacaoObjeto​\bin\Debug\TaoInterativaOrientacaoObjeto​.exe.config
+C:\Users\netob\source\repos\ConsoleApp.Net\BankingConsole\BakingConsole\TaoInterativaOrientacaoObjeto​\bin\Debug\TaoInterativaOrientacaoObjeto​.exe
+C:\Users\netob\source\repos\ConsoleApp.Net\BankingConsole\BakingConsole\TaoInterativaOrientacaoObjeto​\bin\Debug\TaoInterativaOrientacaoObjeto​.pdb
+C:\Users\netob\source\repos\ConsoleApp.Net\BankingConsole\BakingConsole\TaoInterativaOrientacaoObjeto​\obj\Debug\TaoInterativaOrientacaoObjeto​.csprojResolveAssemblyReference.cache
+C:\Users\netob\source\repos\ConsoleApp.Net\BankingConsole\BakingConsole\TaoInterativaOrientacaoObjeto​\obj\Debug\TaoInterativaOrientacaoObjeto​.csproj.CoreCompileInputs.cache
+C:\Users\netob\source\repos\ConsoleApp.Net\BankingConsole\BakingConsole\TaoInterativaOrientacaoObjeto​\obj\Debug\TaoInterativaOrientacaoObjeto​.exe
+C:\Users\netob\source\repos\ConsoleApp.Net\BankingConsole\BakingConsole\TaoInterativaOrientacaoObjeto​\obj\Debug\TaoInterativaOrientacaoObjeto​.pdb
